@@ -126,8 +126,8 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 
 """ As a result of the addition of this new feature, is there a statistically significant difference
 in the number of products purchased after the advertisements clicked on the website?
-H0: Satın alınan ürün sayısı arasında fark yoktur. (μ1 = μ2)
-H1: Satın alınan ürün sayısı arasında fark vardır. (μ1 != μ2))"""
+H0: There is no difference between the number of products purchased. (μ1 = μ2)
+H1: There is a difference between the number of products purchased. (μ1 != μ2)"""
 
 
 """ As a result of the statistical inferences, there was a statistical difference between the control and test groups no significant difference was found. 
