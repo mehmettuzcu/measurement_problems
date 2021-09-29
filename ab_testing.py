@@ -76,8 +76,8 @@ df_test_group["Purchase"].mean()  # Average Bidding
 # H0: Satın alınan ürün sayısı arasında fark yoktur. (μ1 = μ2)
 # H1: Satın alınan ürün sayısı arasında fark vardır. (μ1 != μ2)
 
-# Varsayım Kontrolü
-#  1. Normallik Varsayımı
+# Assumption Check
+#  1.Normality Assumption
 
 # H0: There is no difference between the number of products purchased. (p-value < 0.05)
 # H1: Normal distribution assumption not provided.
